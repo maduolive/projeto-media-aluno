@@ -14,3 +14,9 @@ if media > 6:
     print("Aprovado")
 else:
     print("Reprovado")
+if 5 < media <= 6:
+    print("Recuperação")
+elif media > 6:
+    print("Aprovado")
+else:
+    print("Reprovado")
