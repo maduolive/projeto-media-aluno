@@ -20,3 +20,6 @@ elif media > 6:
     print("Aprovado")
 else:
     print("Reprovado")
+
+# Processo com pesos
+media = (nota1 * 1 + nota2 * 1 + nota3 * 2) / 4
